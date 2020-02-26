@@ -1,0 +1,6 @@
+venv
+db.sqlite3
+members_profile
+__pycache__
+.mypy_cache/
+.vscode/
